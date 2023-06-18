@@ -22,7 +22,6 @@ frontend
     ├── App.jsx
     ├── index.css
     ├── main.jsx
-├── .eslintrc.cjs
 ├── .gitignore
 ├── index.html
 ├── package.json
@@ -35,7 +34,7 @@ frontend
 Para criar uma cópia local do código, clone-o usando git:
 
 ```
-git clone 
+git clone https://github.com/viniblack/portal-tchauzinho-vite.git
 cd portal-tchauzinho-vite
 ```
 
@@ -67,6 +66,6 @@ In this project, you can run the following scripts:
 
 | Script        | Description                                         |
 | ------------- | --------------------------------------------------- |
-| npm run dev   | Runs the app in the development mode.               |
-| npm run build | Builds the app for production to the `dist` folder. |
-| npm run serve | Serves the production build from the `dist` folder. |
+| npm run dev   | Executa o app no modo de desenvolvimento.           |
+| npm run build | Cria o app para produção na pasta `dist`.           |
+| npm run serve | Cria uma preview para produção na pasta `dist`.     |

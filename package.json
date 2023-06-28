@@ -2,8 +2,8 @@
   "name": "Solidity-W3D",
   "version": "0.0.1",
   "scripts": {
-    "start": "vite",
-    "dev": "vite --port 3000 --open",
+    "start": "vite --port 3000 --open",
+    "dev": "vite",
     "build": "vite build",
     "serve": "vite preview"
   },  

@@ -1,5 +1,5 @@
 {
-  "name": "Solidity-W3D",
+  "name": "solidity-w3d",
   "version": "0.0.1",
   "scripts": {
     "start": "vite --port 3000 --open",

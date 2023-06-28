@@ -66,6 +66,7 @@ In this project, you can run the following scripts:
 
 | Script        | Description                                         |
 | ------------- | --------------------------------------------------- |
+| npm run start | Executa o app localmente.                           |
 | npm run dev   | Executa o app no modo de desenvolvimento.           |
 | npm run build | Cria o app para produção na pasta `dist`.           |
 | npm run serve | Cria uma preview para produção na pasta `dist`.     |
